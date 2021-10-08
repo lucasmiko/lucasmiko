@@ -16,8 +16,6 @@
 - :video_game: Games
 - :headphones: Música
 
-<br>
-
 <div align="center">
   
 <div align="center">
