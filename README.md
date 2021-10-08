@@ -16,14 +16,18 @@
 - :video_game: Games
 - :headphones: Música
 
+<br>
+
 <div align="center">
   
-  <div align="center">
-    <h2>Perfil</h2>
+<div align="center">
+    <h2>:avocado: Perfil</h2>
     <p style="font-size: 16px;">
-    Apaixonado por aprender sobre tecnologias e user experience. Ama se divertir criando sites, desenvolvendo sistemas e ministrando cursos. Trabalha na empresa MegaWhite desenvolvendo sistemas e aplicações para grandes empresas, também atua como instrutor no programa de ensino <b>Hcode Lab</b>.
+    Apaixonado por aprender sobre tecnologias e user experience. Ama se divertir criando sites, desenvolvendo sistemas e ministrando cursos. Trabalha na empresa MegaWhite           desenvolvendo sistemas e aplicações para grandes empresas, também atua como instrutor no programa de ensino <b>Hcode Lab</b>.
     </p>
 </div>
+  
+<br>
 
 <div align="center">
     <h2>:mailbox: Contato</h2>
@@ -37,6 +41,8 @@
         <img alt="E-mail" src="https://img.shields.io/static/v1?style=flat-square&logo=microsoft-outlook&label=Outlook&message=lucasmiko@live.com&color=26A9A9">
     </a>
 </p>
+
+<br>
 
 <div align="center">
     <h2>:brain: Habilidades - Hard Skills</h2>
@@ -58,8 +64,10 @@
       </p>
 </div>
 
+<br>
+
 <div align="center">
-    <h2>GitHub 🏆</h2>
+    <h2>🏆 GitHub</h2>
 </div>
 
 <div align="center">
