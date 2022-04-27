@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Lucas Mikó
 ### Desenvolvedor Full Stack e Instrutor no programa Hcode Lab
 
-- :abacus: Trabalho com .NET, C# e SQL Server
+- :abacus: Trabalho com .NET, C#, Xamarin e SQL Server
 - :books: Estou estudando TypeScript, Node.js, NestJS, React e Next.js
 
 #### Hobbies 
