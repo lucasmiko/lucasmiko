@@ -21,7 +21,7 @@
 <div align="center">
     <h2>:avocado: Perfil</h2>
     <p style="font-size: 16px;">
-    Apaixonado por aprender sobre tecnologias e user experience. Ama se divertir criando sites, desenvolvendo sistemas e ministrando cursos. Trabalha na empresa MegaWhite           desenvolvendo sistemas e aplicações para grandes empresas, também atua como instrutor no programa de ensino <b>Hcode Lab</b>.
+    Apaixonado por aprender sobre tecnologias e user experience. Ama se divertir criando sites, desenvolvendo sistemas e ministrando cursos. Trabalha na empresa Develop4Us           desenvolvendo sistemas e aplicações para grandes empresas, também atua como instrutor no programa de ensino <b>Hcode Lab</b>.
     </p>
 </div>
   
