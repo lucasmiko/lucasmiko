@@ -1,34 +1,33 @@
+# Hi there! I'm Lucas Mikó
+## Full Stack Developer and Instructor at Hcode Lab Program
 
-### Olá! Eu sou o Lucas Mikó
-### Desenvolvedor Full Stack e Instrutor no programa Hcode Lab
+- :abacus: Working with .NET, C#, Blazor, Xamarin, and SQL Server
+- :books: Currently learning TypeScript, Node.js, NestJS, React, and Next.js
 
-- :abacus: Trabalho com .NET, C#, Blazor, Xamarin e SQL Server
-- :books: Estou estudando TypeScript, Node.js, NestJS, React e Next.js
+### Hobbies 
 
-#### Hobbies 
-
-- :partying_face: Estar com a família e os amigos
-- :camera_flash: Fotografia
-- :hamburger: Hambúrguer
-- :airplane: Viajar
-- :soccer: Futebol
-- :basketball: Basquete
-- :video_game: Games
-- :headphones: Música
+- :partying_face: Spending time with family and friends
+- :camera_flash: Photography
+- :hamburger: Hamburger
+- :airplane: Traveling
+- :soccer: Football
+- :basketball: Basketball
+- :video_game: Gaming
+- :headphones: Music
 
 <div align="center">
   
 <div align="center">
-    <h2>:avocado: Perfil</h2>
+    <h2>:avocado: Profile</h2>
     <p style="font-size: 16px;">
-    Apaixonado por aprender sobre tecnologias e user experience. Ama se divertir criando sites, desenvolvendo sistemas e ministrando cursos. Trabalha na empresa Develop4Us           desenvolvendo sistemas e aplicações para grandes empresas, também atua como instrutor no programa de ensino <b>Hcode Lab</b>.
+    Passionate about learning new technologies and user experience. Loves creating websites, developing systems, and teaching courses. Works at Develop4Us, where I develop systems and applications for large companies. Also, I work as an instructor at the Hcode Lab teaching program.
     </p>
 </div>
   
 <br>
 
 <div align="center">
-    <h2>:mailbox: Contato</h2>
+    <h2>:mailbox: Contact</h2>
 </div>
 <p align="center">
     </a>
@@ -43,7 +42,7 @@
 <br>
 
 <div align="center">
-    <h2>:brain: Habilidades - Hard Skills</h2>
+    <h2>:brain: Skills - Hard Skills</h2>
     <p align="center">
       <img alt="Lucas-.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
       <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -68,7 +67,9 @@
 <br>
 
 <div align="center">
-    <h2>🏆 GitHub</h2>
+    <h
+
+2>🏆 GitHub</h2>
 </div>
 
 <div align="center">
