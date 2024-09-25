@@ -1,7 +1,7 @@
 # Hi there! I'm Lucas Mikó
 ## Full Stack Developer and Instructor at Hcode Lab Program
 
-- :abacus: Working with .NET, C#, Blazor, MAUI, and SQL Server
+- :abacus: Working with .NET, C#, Blazor and SQL Server
 - :books: Currently learning .NET, Blazor, C#, Entity Framework, Dapper and SQL Server
 
 ### Hobbies 
