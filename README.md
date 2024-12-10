@@ -83,6 +83,8 @@
   
 
   ![Snake animation](https://github.com/lucasmiko/lucasmiko/blob/output/github-contribution-grid-snake.svg)
+  <br />
+  ![Snake animation 2](https://github.com/lucasmiko/lucasmiko/blob/output/snake_game_test.gif)
  </div>
 <!--
 **lucasmiko/lucasmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
