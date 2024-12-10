@@ -1,5 +1,5 @@
 # Hi there! I'm Lucas Mikó
-## Full Stack Developer and Instructor at Hcode Lab Program
+## Full Stack Developer
 
 - :abacus: Working with .NET, C#, Blazor and SQL Server
 - :books: Currently learning .NET, Blazor, C#, Entity Framework, Dapper and SQL Server
@@ -20,7 +20,7 @@
 <div align="center">
     <h2>:avocado: Profile</h2>
     <p style="font-size: 16px;">
-    Passionate about learning new technologies and user experience. Loves creating websites, developing systems, and teaching courses. Works at Develop4Us, where I develop systems and applications for large companies. Also, I work as an instructor at the Hcode Lab teaching program.
+    Passionate about learning new technologies and user experience. Loves creating websites, developing systems, and teaching courses. With over 5 years of experience I have a proven track record of delivering high-quality projects and collaborating effectively with technical teams and stakeholders.
     </p>
 </div>
   
