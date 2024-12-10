@@ -70,9 +70,7 @@
 <br>
 
 <div align="center">
-    <h
-
-2>🏆 GitHub</h2>
+    <h2>🏆 GitHub</h2>
 </div>
 
 <div align="center">
