@@ -74,11 +74,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/lucasmiko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmiko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmiko&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmiko&show_icons=true&theme=github_dark_dimmed"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmiko&layout=compact&theme=github_dark_dimmed" />
 </div>
-  
 
   ![Snake animation](https://github.com/lucasmiko/lucasmiko/blob/output/github-contribution-grid-snake.svg)
  </div>
