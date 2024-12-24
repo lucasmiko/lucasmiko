@@ -1,7 +1,7 @@
 # Hi there! I'm Lucas Mikó
 ## Full Stack Developer
 
-- :abacus: Working with .NET, C#, Blazor and PostgreSQL
+- :abacus: Working with .NET, C#, Blazor, GraphQL and PostgreSQL
 - :books: Currently learning Clean Code, AI, Advanced .NET and GraphQL
 
 ### Hobbies 
